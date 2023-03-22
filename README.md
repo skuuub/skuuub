@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @skuuub
-- 👀 I’m interested in computers 
-- 🌱 I’m currently learning python and taking a cs course in college.
-- 💞️ I’m looking to collaborate on future projects 
+- 👀 I like Computer Science and programming
+- 🌱 I’m currently learning Java and taking a cs course in college.
+- 💞️ I’m looking forward to collaborating on future projects 
 - 📫 How to reach me @kub#8914 on discord 
 
 <!---
