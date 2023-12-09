@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @skuuub
-- 👀 I like Computer Science and programming
-- 🌱 I’m currently learning Java and taking a cs course in college.
+- 👋 Hi, I’m bukunmi. 
+- 👀 I find the field of Cyber Security and Programming interesting.
+- 🌱 I’m currently learning Java, other programming languages, and cybersecurity-related classes in college.
 - 💞️ I’m looking forward to collaborating on future projects 
 - 📫 How to reach me @kub#8914 on discord 
 
