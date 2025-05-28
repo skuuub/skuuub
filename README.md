@@ -1,6 +1,6 @@
 - 👋 Hi, I’m bukunmi. 
 - 👀 I find the field of Cyber Security and Programming interesting.
-- 🌱 I’m currently learning Java, other programming languages, and cybersecurity-related topics in college.
+- 🌱 I’m currently studying for my Sec+ and AI and ML topics.
 - 📫 How to reach me @kub#8914 on discord 
 
 <!---
